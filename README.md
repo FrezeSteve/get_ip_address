@@ -1,5 +1,5 @@
 # get_ip_address
-django_project. get the ip address of each request and validate the ip.
+get the ip address of each request and validate the ip with this functions
 
 ***requirements***
 1. python3.*
